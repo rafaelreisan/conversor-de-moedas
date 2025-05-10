@@ -9,7 +9,7 @@ import java.time.format.DateTimeFormatter;
 import com.google.gson.*;
 
 public class ConversorMoedas {
-    private static final String API_KEY = "cb0cfd53db31e14923ab9d16"; // Insira sua chave da API aqui
+    private static final String API_KEY = " chave da API aqui"; // Insira sua chave da API aqui
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/" + API_KEY + "/latest/";
     private static final String HISTORICO_ARQUIVO = "historico.txt";
 
